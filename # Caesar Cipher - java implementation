@@ -1,0 +1,33 @@
+# Caesar Cipher – Java Implementation 🔐
+
+This project is part of the *PRODIGY INFOTECH Cybersecurity Internship* (Task 1).  
+It implements the classic *Caesar Cipher* algorithm using Java.
+
+---
+
+## 📌 Project Description
+
+The *Caesar Cipher* is one of the oldest known encryption techniques.  
+In this program, users can:
+- Encrypt a plaintext message using a shift key
+- Decrypt a ciphertext back to the original message
+
+This console-based Java application takes user input and performs letter-based shifting.
+
+---
+
+## 🧠 Features
+
+- Encryption and decryption options
+- Input validation
+- Works with both uppercase and lowercase letters
+- Simple and interactive command-line interface
+
+---
+
+## 💻 How to Run
+
+1. Open CaesarCipher.java in your preferred IDE (e.g., Eclipse, IntelliJ, VS Code)
+2. Compile the code:
+   ```bash
+   javac CaesarCipher.java
